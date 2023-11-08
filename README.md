@@ -17,7 +17,7 @@ In this repository, you'll find a series of simple and small Machine Learning Pr
 
 ## How to Use this Repository
 
-1. **Browse the Folders:** Check out the folders inside the "KNN" directory. Each folder corresponds to a specific KNN project or concept.
+1. **Browse the Folders:** Check out each folders with different algorithm names. Each folder corresponds to a specific algorithm containg projects.
 
 2. **Select a Project:** Choose a project that interests you or aligns with your learning goals.
 
