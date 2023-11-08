@@ -49,5 +49,17 @@ To use this code, follow these steps:
 
 4. Review the predictions in the output, which will indicate whether the new data points are likely to result in churn.
 
+## Resources
+
+Here are some additional resources to help you learn more about supervised learning, scikit-learn, and the K-Nearest Neighbors (KNN) algorithm:
+
+1. [DataCamp - Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn)
+   - This DataCamp course offers in-depth tutorials and hands-on exercises on supervised learning with scikit-learn, including K-Nearest Neighbors.
+
+2. [Analytics Vidhya - Introduction to the K-Nearest Neighbors Algorithm and Clustering](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+   - This article on Analytics Vidhya provides an introduction to the K-Nearest Neighbors algorithm, its applications, and clustering.
+
+These resources will provide you with additional insights and knowledge to complement your understanding of the code and KNN algorithm.
+
 ## Conclusion
 This code demonstrates a simple application of the K-Nearest Neighbors algorithm for binary classification. It shows how to load data, train a model, and make predictions. You can further extend and customize this code to work with your own datasets and use cases.
