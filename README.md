@@ -1,4 +1,4 @@
-# Machine-Learning-with-Scikit-Learn
+# Machine-Learning-With-Python
 
 Welcome to the Machine-Learning-with-Scikit-Learn Projects for Beginners repository! This project is designed to help you understand and practice of different Machine Learning algorithms, in simple and approachable way. Whether you're new to GitHub or new to machine learning, this repository is a great starting point for your learning journey.
 
