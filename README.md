@@ -12,7 +12,7 @@ K-Nearest Neighbors (KNN) is a simple and intuitive machine learning algorithm u
 
 In this repository, you'll find a series of simple and small Machine Learning Projects, each accompanied by code and documentation to help you understand the algorithm better. The projects are designed to cover the following aspects:
 
-- **Implementation:** Explore practical implementations of KNN in Python, along with explanations.
+- **Implementation:** Explore practical implementations of ML in Python, along with explanations.
 - **Hands-On Experience:** Get hands-on experience by working through small projects that use ML for real-world tasks.
 
 ## How to Use this Repository
